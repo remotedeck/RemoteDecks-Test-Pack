@@ -1,0 +1,14 @@
+name = "Mekanism Tools"
+filename = "MekanismTools-1.19.2-10.3.7.476.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7827b5f5112fbf60c1308435393889376272ad45"
+
+[update]
+[update.curseforge]
+file-id = 4377254
+project-id = 268567

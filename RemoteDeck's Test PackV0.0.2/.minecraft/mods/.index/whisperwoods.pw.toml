@@ -1,0 +1,14 @@
+name = "Whisperwoods"
+filename = "whisperwoods-1.19-2.1.1-forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0d0bd6791a64af9383c46d9421cd78b4dfd29afa"
+
+[update]
+[update.curseforge]
+file-id = 3884128
+project-id = 349597

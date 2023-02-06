@@ -1,0 +1,14 @@
+name = "Mekanism"
+filename = "Mekanism-1.19.2-10.3.7.476.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "fd6affd3d028c8d441d82d1612cc351811601265"
+
+[update]
+[update.curseforge]
+file-id = 4377251
+project-id = 268560
