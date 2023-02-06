@@ -1,0 +1,14 @@
+name = "Allomancy"
+filename = "allomancy-4.6.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "939ce6addb34c02e92ef69700829ed132a5a4ca4"
+
+[update]
+[update.curseforge]
+file-id = 3987783
+project-id = 256282
