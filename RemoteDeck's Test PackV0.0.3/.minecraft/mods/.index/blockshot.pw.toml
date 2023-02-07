@@ -1,0 +1,14 @@
+name = "BlockShot"
+filename = "blockshot-forge-1.19.1-1.2.6.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "63739553fd2690721696e8af5fc2e5cebb1c95d9"
+
+[update]
+[update.curseforge]
+file-id = 3906106
+project-id = 571107

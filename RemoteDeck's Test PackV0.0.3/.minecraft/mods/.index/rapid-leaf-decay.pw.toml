@@ -1,0 +1,14 @@
+name = "Rapid Leaf Decay"
+filename = "RapidLeafDecay-1.19.2-2.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "290da51bfdc5c2bbbc8c1a15e5189cdad45dec55"
+
+[update]
+[update.curseforge]
+file-id = 3962710
+project-id = 396847

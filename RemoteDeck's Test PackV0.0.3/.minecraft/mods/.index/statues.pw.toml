@@ -1,0 +1,14 @@
+name = "Statues"
+filename = "Statues-1.19.2-0.3.2.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f9a334a7af1528fbd3ff7c2390959d5eac874387"
+
+[update]
+[update.curseforge]
+file-id = 4351814
+project-id = 253172

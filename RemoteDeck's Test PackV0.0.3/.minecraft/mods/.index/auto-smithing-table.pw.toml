@@ -1,0 +1,14 @@
+name = "Auto Smithing Table"
+filename = "autosmithingtable_1.19.2-1.2.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "dbecc94ba29a9a2d4a5054ffa00c62819542e1d6"
+
+[update]
+[update.curseforge]
+file-id = 4366410
+project-id = 665004

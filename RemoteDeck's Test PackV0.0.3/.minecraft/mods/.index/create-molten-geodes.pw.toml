@@ -1,0 +1,14 @@
+name = "Create: Molten Geodes"
+filename = "molten_geodes-1.19.2-0.3.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "df5e3b1b7160dd23e2270d9439511116b3fb806c"
+
+[update]
+[update.curseforge]
+file-id = 4377573
+project-id = 659044

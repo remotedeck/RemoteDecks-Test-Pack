@@ -1,0 +1,14 @@
+name = "Enchantment Requirements"
+filename = "EnchantmentRequirements-1.19.2-1.2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "23ff46b580d76355a743c80371a6b417653ea176"
+
+[update]
+[update.curseforge]
+file-id = 4081344
+project-id = 677040

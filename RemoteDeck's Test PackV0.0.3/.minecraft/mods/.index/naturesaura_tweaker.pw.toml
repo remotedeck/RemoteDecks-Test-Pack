@@ -1,0 +1,14 @@
+name = "Nature's Aura Tweaker"
+filename = "Natures Aura Tweaker 1.19.2-0.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "06db9a9490e2c732344ebdaa4979526060bdb5ac"
+
+[update]
+[update.curseforge]
+file-id = 4041152
+project-id = 581742

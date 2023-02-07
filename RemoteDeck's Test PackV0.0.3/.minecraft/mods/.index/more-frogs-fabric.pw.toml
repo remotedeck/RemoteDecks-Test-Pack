@@ -1,0 +1,14 @@
+name = "More Frogs - Fabric/Quilt/Forge"
+filename = "morefrogs-1.19.x-1.1.1a-forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1ed9b5f73dcfdcc8e3aaff3c47087e8d0c9f30c3"
+
+[update]
+[update.curseforge]
+file-id = 4076740
+project-id = 643728
