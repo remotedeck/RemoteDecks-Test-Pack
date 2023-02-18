@@ -1,0 +1,14 @@
+name = "Tiny Pipes"
+filename = "tinypipes-3.1.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6b1ba7c3edf2217d217c58b273645b8b8de607d6"
+
+[update]
+[update.curseforge]
+file-id = 4389650
+project-id = 555132

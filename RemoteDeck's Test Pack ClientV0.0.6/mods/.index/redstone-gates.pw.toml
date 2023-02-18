@@ -1,0 +1,14 @@
+name = "Redstone Gates"
+filename = "gates-1.8.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "bebc62da5f8547fad5c387c5bd007cf69e776357"
+
+[update]
+[update.curseforge]
+file-id = 3965215
+project-id = 320509
